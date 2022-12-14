@@ -1,4 +1,4 @@
-# snake-game-console
+# snake-console
 
 ## usage 
 
